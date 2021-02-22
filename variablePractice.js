@@ -4,3 +4,6 @@ var learningComplete = false;
 var numberOfCommand = 6;
 var homeworkComplete = true;
 var name = 'Hayley Dixon';
+var statement = 'Re-assigning varibles'
+var learningComplete = true;
+var name = 'Dixon, Hayley';
